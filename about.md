@@ -26,19 +26,18 @@ _Winter 2026_
 
 _Please email if standard office hours times do not work for you._
 
+
 ### Course Description 
+
+Artificial intelligence is transforming the world, enabling organizations of all sizes to innovate, scale, and make better decisions. Recent breakthroughs in large language models have accelerated progress in AI and machine learning, and frontier research is increasingly focused on native multimodal generative models that integrate text, vision, and other modalities. This course introduces the core concepts and practical methods of deep learning, with an emphasis on modern large language and vision models.
 
 
 ### Textbook
 
-* [Lecture Notes](https://nexais.github.io/sds7102/lectures/lmnotes.pdf)
+There are no textbooks but lecture slides will be posted weekly. 
 
+<!-- * [Lecture Notes](https://nexais.github.io/sds7102/lectures/lmnotes.pdf) -->
 
-
-
-
-
-### Reference Books
 
 
 
