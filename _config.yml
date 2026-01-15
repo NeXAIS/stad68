@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "STAD80"
-tagline: "STAD80"
-description: "STAD80"
+title: "STAD68"
+tagline: "STAD68"
+description: "STAD68"
 author: Qiang Sun
 # url: https://qsunstats.github.io/course-template # the base hostname & protocol for your site, e.g. http://example.com
-url: https://nexais.github.io/stad80
+url: https://nexais.github.io/STAD68
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 exclude:
   - vendor

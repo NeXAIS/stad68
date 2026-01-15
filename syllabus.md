@@ -38,13 +38,12 @@ Artificial intelligence is transforming the world, enabling organizations of all
 All materials are available as publicly available research papers linked from the [course schedule](../schedule/).
 
 
-### Textbook
+### Textbooks
 There will be no textbooks for this course. 
 
 
-
-### Reference Books
-There will be no reference books for this course. 
+<!-- ### Reference Books
+There will be no reference books for this course.  -->
 
 
 
