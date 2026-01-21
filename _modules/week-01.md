@@ -3,34 +3,13 @@ title: Schedule
 ---
 
 Week 1
-: [Fundametals](../lectures/00_Intro.pdf)
+: [Introduction](../lectures/00_Intro.pdf)
   <!-- : [code]() -->
 
+Week 2
+: [ANN](../lectures/01_ANN.pdf)
 
 
 <!-- Week 2
 : [Random Variables](../lectures/2.RV.pdf)
-  : []() -->
-
-
-<!-- Week 3
-: [Multivariate Normal Distributions](../lectures/3.MVN.pdf)
-  : []()
-
-Week 4
-: [Asymptotics](../lectures/4.Asymptotics.pdf)
-  : []()
-
-
-Week 5
-: [CLT](../lectures/5.CLT.pdf)
-  : []()
-
-
-Week 6
-: [CI and Stochastic Convergence](../lectures/6.CI%20and%20Conv.pdf)
-  : []()
-
-Week 6
-: [Point Estimation](../lectures/7.Point.pdf)
   : []() -->
