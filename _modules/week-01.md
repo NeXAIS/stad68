@@ -6,8 +6,8 @@ Week 1
 : [Introduction](../lectures/00_Intro.pdf)
   <!-- : [code]() -->
 
-Week 2
-: [ANN](../lectures/01_ANN.pdf)
+Week 2 & 3
+: [ANN and Optimization](../lectures/01_ANN.pdf)
 
 
 <!-- Week 2
