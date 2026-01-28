@@ -18,7 +18,7 @@ nav_order: 2
 
 **Email:** [qiang.sun@utoronto.ca](mailto:qiang.sun@utoronto.ca) 
 
-**TA:** TBD, [TBD](mailto:TBD)
+**TA:** Ali Arasteh, [ali.arasteh@mail.utoronto.ca](mailto:ali.arasteh@mail.utoronto.ca)
 
 _Please email if standard office hours times do not work for you._
 
