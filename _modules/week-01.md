@@ -2,12 +2,33 @@
 title: Schedule
 ---
 
-Week 1
+Lecture 0
 : [Introduction](../lectures/00_Intro.pdf)
   <!-- : [code]() -->
 
-Week 2 & 3
-: [ANN and Optimization](../lectures/01_ANN.pdf)
+Lecture 1
+: [ANN](../lectures/01_ANN.pdf)
+
+Lecture 2
+: [CNN](../lectures/02_CNN.pdf)
+
+
+Lecture 3
+: [Sequence](../lectures/03_Sequence.pdf)
+
+Lecture 4
+: [Transformers](../lectures/04_Transformers.pdf)
+
+
+Lecture 5
+: [Mamba](../lectures/05_Mamba.pdf)
+
+
+Lecture 6
+: [LLM](../lectures/06_LLM.pdf)
+
+Lecture 7
+: [Post-training](../lectures/07_Posttraining.pdf)
 
 
 <!-- Week 2
