@@ -9,6 +9,7 @@ Lecture 0
 Lecture 1
 : [ANN](../lectures/01_ANN.pdf)
 
+
 Lecture 2
 : [CNN](../lectures/02_CNN.pdf)
 
@@ -27,8 +28,13 @@ Lecture 5
 Lecture 6
 : [LLM](../lectures/06_LLM.pdf)
 
+
 Lecture 7
 : [Post-training](../lectures/07_Posttraining.pdf)
+
+
+Lecture 8
+: [Agents](../lectures/08_Agent.pdf)
 
 
 <!-- Week 2
