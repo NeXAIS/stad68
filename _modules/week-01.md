@@ -29,12 +29,12 @@ Lecture 6
 : [LLM](../lectures/06_LLM.pdf)
 
 
+<!-- Lecture 7
+: [Post-training](../lectures/07_Posttraining.pdf) -->
+
+
 Lecture 7
-: [Post-training](../lectures/07_Posttraining.pdf)
-
-
-Lecture 8
-: [Agents](../lectures/08_Agent.pdf)
+: [Agents](../lectures/07_Agents.pdf)
 
 
 <!-- Week 2
